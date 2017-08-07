@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>chislettcom</title>
+    <link href="https://chislett.github.io/ch-com/feed.xml" rel="self" />
+    <link href="https://chislett.github.io/ch-com" />
+    <updated>2017-08-07T16:45:16-04:00</updated>
+    <author>
+        <name>PSC</name>
+    </author>
+    <id>https://chislett.github.io/ch-com</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>PSC</name>
+        </author>
+        <link href="https://chislett.github.io/ch-com/hello-world.html"/>
+        <id>https://chislett.github.io/ch-com/hello-world.html</id>
+
+        <updated>2017-08-07T15:55:10-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                Hello World!
+            ]]>
+        </content>
+    </entry>
+</feed>
